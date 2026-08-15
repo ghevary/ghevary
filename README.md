@@ -42,7 +42,7 @@ Currently:
 | Project | What it does | Repo |
 |---|---|---|
 | 🐣 **tamagochi** | Virtual pet component for a digital detox app — feed it, or it judges your screen time | [ghevary/tamagochi](https://github.com/ghevary/tamagochi) |
-| 🛠️ **kodingin** | Full Docker demo project (Postgres + Redis), survived a docker-engine-induced Traefik meltdown | [kodingincom/kodingin](https://github.com/kodingincom/kodingin) |
+| 🛠️ **kodingin.com** | A platform where you can spin up websites or AI services (yes, including AI agents) without touching a terminal | [kodingincom/kodingin](https://github.com/kodingincom/kodingin) |
 | 📦 **kopdes** | Another one of my builds, doing its thing quietly | [ghevary/kopdes](https://github.com/ghevary/kopdes) |
 | 🛒 **posuper** | Client POS system — stock opname, Excel exports, receipt printing, the works | [ghevaa/posuper](https://github.com/ghevaa/posuper) |
 
@@ -51,16 +51,19 @@ Currently:
 ### 📊 The Numbers™
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ghevary&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ghevary&layout=compact&theme=tokyonight&hide_border=true" width="34%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ghevary&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ghevary&theme=tokyonight&hide_border=true" width="60%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ghevary&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ghevary&theme=tokyo-night&hide_border=true" width="90%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ghevary&theme=tokyonight&hide_border=true" alt="Streak Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ghevary&theme=tokyo-night&hide_border=true" alt="Contribution Graph" />
 </p>
 
 ---
@@ -68,7 +71,6 @@ Currently:
 ### ✨ Fun facts
 
 - Have a twin brother who's also into dev — we probably fix each other's bugs telepathically
-- One VPS, many regrets, occasional 56GB disk cleanups
 - Watches the stock market with the same energy as watching CI pipelines fail
 - Firmly believes "it's not a bug, it's an undocumented feature" until proven otherwise
 
