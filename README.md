@@ -50,16 +50,18 @@ Currently:
 
 ### 📊 The Numbers™
 
+> Cards below are auto-generated daily via GitHub Actions and committed straight into this repo — no more relying on a flaky third-party server that goes down every other week.
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ghevary&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img src="./profile/stats.svg" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ghevary&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img src="./profile/top-langs.svg" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ghevary&theme=tokyonight&hide_border=true" alt="Streak Stats" />
+  <img src="./profile/streak.svg" alt="Streak Stats" />
 </p>
 
 <p align="center">
