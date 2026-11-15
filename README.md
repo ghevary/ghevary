@@ -17,7 +17,6 @@
 Studying Informatics at **Universitas Dian Nuswantoro (UDINUS), Semarang** — where I split my time between "learning it in class" and "learning it the hard way at 2am after Traefik decides to stop routing." I also do freelance client work on the side, because apparently sleep is optional.
 
 Currently:
-- 🏆 Grinding on **GEMASTIK XIX 2026 Divisi VIII** with team **Dinus Chess Grit** — building a digital detox companion app with a Tamagotchi-style pet that judges your screen time
 - 💼 Keeping client POS systems alive and occasionally fixing my own production disasters
 - 🫠 Debugging things that "worked yesterday"
 
