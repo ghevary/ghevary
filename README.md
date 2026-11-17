@@ -16,10 +16,6 @@
 
 Studying Informatics at **Universitas Dian Nuswantoro (UDINUS), Semarang** — where I split my time between "learning it in class" and "learning it the hard way at 2am after Traefik decides to stop routing." I also do freelance client work on the side, because apparently sleep is optional.
 
-Currently:
-- 💼 Keeping client POS systems alive and occasionally fixing my own production disasters
-- 🫠 Debugging things that "worked yesterday"
-
 ---
 
 ### ⚙️ Tech Stack
